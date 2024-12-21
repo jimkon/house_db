@@ -1,0 +1,7 @@
+services:
+  llm:
+    image: ollama/ollama
+    ports:
+      - "11434:11434"
+#    container_name: ollama
+#    entrypoint: ['sh', '-c', 'ollama pull llama3 && ollama serve']
