@@ -1,0 +1,2 @@
+gutils @ git+https://github.com/jimkon/gutils@dev
+ollama
